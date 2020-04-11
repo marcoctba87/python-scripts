@@ -1,0 +1,2 @@
+ws-exemploId1
+ws-exemploId2
